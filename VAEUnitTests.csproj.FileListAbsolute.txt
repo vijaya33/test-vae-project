@@ -1,0 +1,6 @@
+C:\Vijaya999\VAE-Git-Repository\VAEProject\VAEUnitTests\bin\Debug\VAEUnitTests.dll
+C:\Vijaya999\VAE-Git-Repository\VAEProject\VAEUnitTests\bin\Debug\VAEUnitTests.pdb
+C:\Vijaya999\VAE-Git-Repository\VAEProject\VAEUnitTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Vijaya999\VAE-Git-Repository\VAEProject\VAEUnitTests\obj\Debug\VAEUnitTests.csprojResolveAssemblyReference.cache
+C:\Vijaya999\VAE-Git-Repository\VAEProject\VAEUnitTests\obj\Debug\VAEUnitTests.dll
+C:\Vijaya999\VAE-Git-Repository\VAEProject\VAEUnitTests\obj\Debug\VAEUnitTests.pdb
